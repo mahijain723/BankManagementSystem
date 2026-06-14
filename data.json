@@ -1,0 +1,82 @@
+[
+    {
+        "name": "mahi",
+        "age": "20",
+        "email": "fdkfj",
+        "pin": 1234,
+        "accountnumber": "1234",
+        "balance": 4555
+    },
+    {
+        "name": "harsh",
+        "age": "34",
+        "email": "harsh@gmail.com",
+        "pin": 2234,
+        "accountnumber": "10S^Hp6@",
+        "balance": 4567
+    },
+    {
+        "name": "dia",
+        "age": "23",
+        "email": "dia223@gmail.com",
+        "pin": 1020,
+        "accountnumber": "5E^u76*u",
+        "balance": 1500
+    },
+    {
+        "name": "diya",
+        "age": "23",
+        "email": "diya@gmail.com",
+        "pin": 3007,
+        "accountnumber": "1b2I^l$9",
+        "balance": 3000
+    },
+    {
+        "name": "diya",
+        "age": "23",
+        "email": "diya@gmail.com",
+        "pin": 3007,
+        "accountnumber": "D#z%638F",
+        "balance": 0
+    },
+    {
+        "name": "dia",
+        "age": "23",
+        "email": "dia@gmail.com",
+        "pin": 3007,
+        "accountnumber": "A*B59Z&9",
+        "balance": 0
+    },
+    {
+        "name": "mahi",
+        "age": "20",
+        "email": "mahi@gmail.com",
+        "pin": 2007,
+        "accountnumber": "!E462I$s",
+        "balance": 0
+    },
+    {
+        "name": "bhavy",
+        "age": "24",
+        "email": "bhavy@gmail.com",
+        "pin": 2309,
+        "accountnumber": "!^4eV53r",
+        "balance": 0
+    },
+    {
+        "name": "krish jain",
+        "age": "20",
+        "email": "krish@gmail.com",
+        "pin": 5432,
+        "accountnumber": "4F1@@0Vm",
+        "balance": 0
+    },
+    {
+        "name": "ghaplebaaz",
+        "age": "20",
+        "email": "ghaplebaaz@gmail.com",
+        "pin": 1234,
+        "accountnumber": "^#H18C4Y",
+        "balance": 1000
+    }
+]
