@@ -58,7 +58,11 @@ The application will open in your browser at:
 
 ```text
 http://localhost:8501
-```
+## 🌐 Live Demo
+
+🚀 **Try the application here:**
+
+[https://your-app-name.streamlit.app](https://bankmanagementsystem-wx5snr6w7o5pprpvaekwhw.streamlit.app/)
 
 ## 📸 Features Overview
 
