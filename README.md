@@ -112,15 +112,4 @@ This project is developed for educational and learning purposes.
 
 ---
 
-## 👨‍💻 Author
 
-**Mahi Jain**
-
-🎓 B.Tech Data Science Student
-
-- GitHub: https://github.com/mahijain723
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-PROFILE
-
----
-
-⭐ **If you found this project useful, please consider giving it a Star on GitHub!**
