@@ -1,54 +1,76 @@
 # 🏦 Bank Management System
 
-A Bank Management System built using **Python**, **JSON**, and **Streamlit**. This application provides a simple and interactive banking interface where users can manage their accounts efficiently.
+A modern **Bank Management System** built using **Python** and **Streamlit**. The application provides a simple and interactive interface for managing bank accounts, performing transactions, and securely storing customer data using JSON.
 
-## 🚀 Features
+---
 
-* ✅ Create New Account
-* 💰 Deposit Money
-* 💸 Withdraw Money
-* 📄 View Account Details
-* ✏️ Update Account Information
-* 🗑️ Delete Account
-* 💾 Data Persistence using JSON
-* 🌐 Interactive Web Interface with Streamlit
+## 🌐 Live Demo
+
+🚀 Try the application online:
+
+(https://bankmanagementsystem-wx5snr6w7o5pprpvaekwhw.streamlit.app/)
+---
+
+## 📌 Project Overview
+
+The Bank Management System is a Python-based application that simulates essential banking operations through an interactive Streamlit web interface. It allows users to create accounts, perform transactions, check balances, and manage customer information efficiently.
+
+This project demonstrates the practical implementation of Object-Oriented Programming (OOP), file handling, and web application development using Streamlit.
+
+---
+
+## ✨ Features
+
+- ✅ Create a New Bank Account
+- 💰 Deposit Money
+- 💸 Withdraw Money
+- 📊 Check Account Balance
+- 📋 View Customer Details
+- 🗑️ Delete Account
+- 💾 JSON-Based Data Storage
+- 🌐 Interactive Web Interface with Streamlit
+
+---
 
 ## 🛠️ Technologies Used
 
-* Python
-* Streamlit
-* JSON
-* Pathlib
-* Object-Oriented Programming (OOP)
+- Python
+- Streamlit
+- JSON
+- Object-Oriented Programming (OOP)
 
-## 📂 Project Structure
+---
+
+## 📁 Project Structure
 
 ```text
 BankManagementSystem/
 │
-├── app.py              # Streamlit UI
-├── main.py             # Bank class and business logic
-├── data.json           # Stores account data
-├── requirements.txt    # Project dependencies
-└── README.md
+├── app.py                 # Streamlit User Interface
+├── main.py                # Business Logic
+├── data.json              # Stores Bank Data
+├── requirements.txt       # Project Dependencies
+├── README.md
 ```
+
+---
 
 ## ⚙️ Installation & Setup
 
-### 1. Clone the repository
+### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/BankManagementSystem.git
+git clone https://github.com/mahijain723/BankManagementSystem.git
 cd BankManagementSystem
 ```
 
-### 2. Install dependencies
+### 2. Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3. Run the application
+### 3. Run the Application
 
 ```bash
 streamlit run app.py
@@ -56,31 +78,49 @@ streamlit run app.py
 
 The application will open in your browser at:
 
-```text
+```
 http://localhost:8501
-## 🌐 Live Demo
+```
 
-🚀 **Try the application here:**
+---
 
-[https://your-app-name.streamlit.app](https://bankmanagementsystem-wx5snr6w7o5pprpvaekwhw.streamlit.app/)
+## 💡 Concepts Demonstrated
 
-## 📸 Features Overview
+- Object-Oriented Programming (OOP)
+- File Handling
+- JSON Data Storage
+- Streamlit Web Development
+- Modular Programming
+- Python Functions and Classes
 
-* Secure account creation with PIN validation
-* Unique account number generation
-* Deposit and withdrawal functionality
-* Account update and deletion features
-* Real-time balance updates
-* Persistent data storage using JSON
+---
 
-## 🔮 Future Enhancements
+## 🚀 Future Improvements
 
-* Transaction History
-* User Authentication System
-* Money Transfer Between Accounts
-* SQLite/MySQL Database Integration
-* Dashboard with Charts and Analytics
+- Database Integration (MySQL or SQLite)
+- User Authentication
+- Transaction History
+- Password Encryption
+- Admin Dashboard
+- Data Export (CSV/PDF)
 
+---
 
+## 📄 License
 
+This project is developed for educational and learning purposes.
 
+---
+
+## 👨‍💻 Author
+
+**Mahi Jain**
+
+🎓 B.Tech Data Science Student
+
+- GitHub: https://github.com/mahijain723
+- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-PROFILE
+
+---
+
+⭐ **If you found this project useful, please consider giving it a Star on GitHub!**
